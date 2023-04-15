@@ -93,13 +93,11 @@ experiences:
         time: 2021 - 2022
         company: Cloudshelf Ltd
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked closely with 2 senior engineers to deliver features and fixes.
+          We used React, NextJs, TypeScript with NestJs to connect to our Postgres and GraphQL database.
+            - Utilise the Shopify GraphQL API to display relevant product information from retailers
+            - Delivered over 75 features and numerous fixes
+            - Researched and assisted with the application process successfully being accepted to the Shopify App ecosystem
       - role: Business Manager
         time: 2012 - 2014
         company: McDonalds Restaurants Ltd
