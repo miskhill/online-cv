@@ -121,7 +121,7 @@ projects:
         tagline: "A League of Legends themed E-Sport app. React, MongoDB, Express, Mongoose. This app allows users to upload, rate and comment on the latest E-Sport videos"
 
       - title: Movie Generator
-        link: "#"
+        link: "https://movieproject2.netlify.app/"
         tagline: "Randomly generate your film for the evening."
 
       - title: Smoothie-app
