@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -74,7 +74,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Software Developer
+      - role: Software Developer (Full Stack)
         time: 2022 - Present
         company: Givepanel Ltd
         details: |
@@ -83,7 +83,7 @@ experiences:
           Collaborated with an international team seamlessly, delivering exceptional support to notable charities like St. Judes and MacMillan.
             - Developed features enabling charities to search for recurring donations, resulting in increased efficiency for users
             - Successful in reducing the backlog of known issues to zero
-      - role: Junior Software Engineer
+      - role: Junior Software Engineer (Full Stack)
         time: 2021 - 2022
         company: Cloudshelf Ltd
         details: |
