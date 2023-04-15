@@ -15,7 +15,7 @@ sidebar:
     email: gary.smith80@hotmail.com
     website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/gary-smith-dev/
-    github: sharu725
+    github: github.com/miskhill
     codewars:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -72,11 +72,11 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Developer
+        time: 2022 - Present
+        company: Givepanel Ltd
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,9 +89,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Junior Software Engineer
+        time: 2021 - 2022
+        company: Cloudshelf Ltd
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,9 +100,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Business Manager
         time: 2012 - 2014
-        company: Amazon, London
+        company: McDonalds Restaurants Ltd
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
