@@ -109,23 +109,23 @@ projects:
       If the project is linked please be aware that free hosting can sometimes be slow.
     assignments:
       - title: AnnualMedia
-        link: "#hook"
+        link: "https://annualmedia.pages.dev/"
         tagline: "A personal project to allow me to upload Movie, Series or Book information. I use MongoDB, Express, Mongoose, React and JavaScript"
 
       - title: HospitalityHub
-        link: "#"
+        link: "https://github.com/miskhill/Project4#readme"
         tagline: "An app to allow Businesses and Employees to register, login, post jobs, apply to jobs and rate each other. Built with Python, Django, React and Postgres"
 
       - title: LOLFire E-Sports
-        link: "#"
+        link: "https://vjbhtocsid.eu10.qoddiapp.com/"
         tagline: "A League of Legends themed E-Sport app. React, MongoDB, Express, Mongoose. This app allows users to upload, rate and comment on the latest E-Sport videos"
 
       - title: Movie Generator
         link: "https://movieproject2.netlify.app/"
         tagline: "Randomly generate your film for the evening."
 
-      - title: Smoothie-app
-        link: "#"
+      - title: Supa Smoothie
+        link: "https://supabase-and-react-production.up.railway.app/"
         tagline: "I wanted to try out Supabase as a backend service. I used React and Supabase to create full stack CRUD app"
 
 # oss:
