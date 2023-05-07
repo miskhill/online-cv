@@ -97,25 +97,27 @@ experiences:
             - Prepare documents for releasing
             - Prepare documents for LTO
             - Prepare documents for segregation
-      - role: Business Manager
-        time: 2008 - 2021
-        company: McDonalds Restaurants Ltd
+      - role: Admin Staff
+        time: 2016 - 2017
+        company: Fruitas Group of Companies Head Office
         details: |
-          Responsible for the overall financial and operational results of a £3.5 million business.
-          Operational focused in a fast paced, ever evolving business environment.
-            - Managed a team of 12 managers and over 100 staff
-            - Responsible for hiring, training and onboarding employees
-            - Responsible for implementing and troubleshooting any equipment or IT related issues
+          #60 Cordillera St. corner E. Rodriguez, Doña Josefa Quezon City.
+            - Prepares Contractor’s Billing
+            - Prepares Payroll for Extra Manpower
+            - Prepares insurance for new open stores
+            - Prepare charges for repairs and replacement of carts and kiosk
+            - Prepares cash disbursement and reimbursement
+            - Prepares permit for ingress and pull out of stores
+            - Communicate with mall leasing
 projects:
-    title: Projects
+    title: Licenses & Certifications
     intro: >
-      I have an active Github account and love to create new full-stack projects. I especially enjoy trying out new technology to improve my knowledge.
-      All of the apps are hosted on a variety of free tier hosting platforms including Cloudflare, Github Pages, Render, Railway, Qoddi and Netlify. 
-      If the project is linked please be aware that free hosting can sometimes be slow.
+      I have numerous licenses & certificates.
+      I have listed a number of them below but please contact me if you have any questions. 
     assignments:
-      - title: AnnualMedia
-        link: "https://annualmedia.pages.dev/"
-        tagline: "A personal project to allow me to upload Movie, Series or Book information. I use MongoDB, Express, Mongoose, React and JavaScript"
+      - title: Professional Teacher
+        # link: "https://annualmedia.pages.dev/"
+        tagline: "Bachelor of Secondary Education (BSEd)"
 
       - title: HospitalityHub
         link: "https://github.com/miskhill/Project4#readme"
