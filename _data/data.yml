@@ -7,22 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Gary Smith
-    tagline: Software Developer
-    avatar: Garyprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # name: Gary Smith
+    name: Delaila Genilba
+    # tagline: Software Developer
+    avatar: delaila.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: gary.smith80@hotmail.com
+    # email: gary.smith80@hotmail.com
+    email: genilbalhai@gmail.com
     # website: blog.webjeda.com #do not add http://
-    linkedin: gary-smith-dev
-    github: miskhill
-    codewars: miskhill
+    linkedin: delaila-genilba-lpt-728601252
+    # linkedin: gary-smith-dev
+    # github: miskhill
+    # codewars: miskhill
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Proficient
+        - idiom: Tagalog
           level: Native
 
     interests:
