@@ -176,21 +176,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Leadership
-        level: 98%
-
-      - name: Integrity and ethics
-        level: 98%
-
-      - name: Computer Skills - Word, Excel, PowerPoint
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
       - name: Time Management & Organization
         level: 100%
 
+      - name: Leadership & Communication
+        level: 100%
+
       - name: Teamwork & People Management
+        level: 100%
+
+      - name: Intergrity & Ethics
+        level: 100%
+
+      - name: Computer Literacy - Word, Excel, Powerpoint
+        level: 98%
+
+      - name: HTML & CSS
         level: 95%
 
