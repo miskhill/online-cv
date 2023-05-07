@@ -140,43 +140,62 @@ experiences:
             - Prepares cash disbursement and reimbursement
             - Prepares permit for ingress and pull out of stores
             - Communicate with mall leasing
-projects:
-    title: Licenses & Certifications
-    intro: >
-      I have numerous licenses & certificates.
-      I have listed a number of them below but please contact me if you have any questions. 
-    assignments:
-      - title: Professional Teacher
-        # link: "https://annualmedia.pages.dev/"
-        tagline: "Bachelor of Secondary Education (BSEd) January 28, 2023"
+      - role: Operations Officer
+        time: 2015 - 2016
+        company: Wise Knight Inc.
+        details: |
+          16th floor RCBC Plaza Makati City.
+            - Monitor and update Event Race
+      - role: Admin & Billing Staff
+        time: 2014 - 2015
+        company: 2GO Alliances – NN-ATS Logistics Management & Holdings Co., Inc.
+        details: |
+          General Luna, Intramuros, Manila
+            - Prepare on time billing to fiance
+            - Prepare for Request Payment Slip of Truckers
+            - Prepare the contract for our clients
+            - Prepare and update our Daily TAS Monitoring Report
+            - Verify documents submitted by Coordinators
+            - Prepare Request for Capital Expenditures
+            - Prepare Acknowledgement Receipt
+      
+# projects:
+#     title: Licenses & Certifications
+#     intro: >
+#       I have numerous licenses & certificates.
+#       I have listed a number of them below but please contact me if you have any questions. 
+#     assignments:
+#       - title: Professional Teacher
+#         # link: "https://annualmedia.pages.dev/"
+#         tagline: "Bachelor of Secondary Education (BSEd) January 28, 2023"
 
-      - title: Certified TikTok Marketing Professional
-        # link: "https://github.com/miskhill/Project4#readme"
-        tagline: "March 22, 2023"
+#       - title: Certified TikTok Marketing Professional
+#         # link: "https://github.com/miskhill/Project4#readme"
+#         tagline: "March 22, 2023"
 
-      - title: Philippine Professional Standard for Teachers Webinar
-        # link: "https://vjbhtocsid.eu10.qoddiapp.com/"
-        tagline: "May 27-29, 2022"
+#       - title: Philippine Professional Standard for Teachers Webinar
+#         # link: "https://vjbhtocsid.eu10.qoddiapp.com/"
+#         tagline: "May 27-29, 2022"
 
-      - title: Certificate of Appreciation
-        # link: "https://movieproject2.netlify.app/"
-        tagline: "Observers during the Final Demonstration of Practice Teachers - S.Y. 2021- 2022"
+#       - title: Certificate of Appreciation
+#         # link: "https://movieproject2.netlify.app/"
+#         tagline: "Observers during the Final Demonstration of Practice Teachers - S.Y. 2021- 2022"
 
-      - title: Certificate of Participation
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        tagline: "Orientation on the Site Selection Process for Evacuation Center Projects"
+#       - title: Certificate of Participation
+#         # link: "https://supabase-and-react-production.up.railway.app/"
+#         tagline: "Orientation on the Site Selection Process for Evacuation Center Projects"
 
-      - title: Certificate of Completion
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        tagline: "Learn How To Create Digital Course Collateral In Canva - November 2021"
+#       - title: Certificate of Completion
+#         # link: "https://supabase-and-react-production.up.railway.app/"
+#         tagline: "Learn How To Create Digital Course Collateral In Canva - November 2021"
 
-      - title: Certificate of Perfect Attendance
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        tagline: "Most reliable of the Month - PPCInc. C.M Recto (February 2013)"
+#       - title: Certificate of Perfect Attendance
+#         # link: "https://supabase-and-react-production.up.railway.app/"
+#         tagline: "Most reliable of the Month - PPCInc. C.M Recto (February 2013)"
 
-      - title: Certificate of Participation
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        tagline: "Guidance and Counselling Center - Cagayan State University"
+#       - title: Certificate of Participation
+#         # link: "https://supabase-and-react-production.up.railway.app/"
+#         tagline: "Guidance and Counselling Center - Cagayan State University"
 
 # oss:
 #     title: OSS Contributions
