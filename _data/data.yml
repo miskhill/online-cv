@@ -29,6 +29,20 @@ sidebar:
           level: Proficient
         - idiom: Tagalog
           level: Native
+        - idiom: Certified TikTok Marketing Professional
+          level: "March 22, 2023"
+        - idiom: Philippine Professional Standard for Teachers Webinar
+          level: "May 27-29, 2022"
+        - idiom: Certificate of Appreciation
+          level: "Observers during the Final Demonstration of Practice Teachers - S.Y. 2021- 2022"
+        - idiom: Certificate of Participation
+          level: "Orientation on the Site Selection Process for Evacuation Center Projects"
+        - idiom: Certificate of Completion
+          level: "Learn How To Create Digital Course Collateral In Canva - November 2021"
+        - idiom: Certificate of Perfect Attendance
+          level: "Most reliable of the Month - PPCInc. C.M Recto (February 2013)"
+        - idiom: Certificate of Participation
+          level: "Guidance and Counselling Center - Cagayan State University"
 
     interests:
       title: Interests
@@ -49,7 +63,7 @@ career-profile:
       I am committed to delivering high-quality work and continuously developing my skills to achieve personal and professional growth.
       
 education:
-    title: Education & Certification
+    title: Education
     info:
       - degree: Bachelor of Secondary Education
         university: f.l. Vargas College inc.
@@ -77,33 +91,6 @@ education:
         # link: "https://annualmedia.pages.dev/"
         university: "Bachelor of Secondary Education (BSEd) January 28, 2023"
 
-      - degree: Certified TikTok Marketing Professional
-        # link: "https://github.com/miskhill/Project4#readme"
-        university: "March 22, 2023"
-
-      - degree: Philippine Professional Standard for Teachers Webinar
-        # link: "https://vjbhtocsid.eu10.qoddiapp.com/"
-        university: "May 27-29, 2022"
-
-      - degree: Certificate of Appreciation
-        # link: "https://movieproject2.netlify.app/"
-        university: "Observers during the Final Demonstration of Practice Teachers - S.Y. 2021- 2022"
-
-      - degree: Certificate of Participation
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        university: "Orientation on the Site Selection Process for Evacuation Center Projects"
-
-      - degree: Certificate of Completion
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        university: "Learn How To Create Digital Course Collateral In Canva - November 2021"
-
-      - degree: Certificate of Perfect Attendance
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        university: "Most reliable of the Month - PPCInc. C.M Recto (February 2013)"
-
-      - degree: Certificate of Participation
-        # link: "https://supabase-and-react-production.up.railway.app/"
-        university: "Guidance and Counselling Center - Cagayan State University"
 experiences:
     title: Experience
     info:
