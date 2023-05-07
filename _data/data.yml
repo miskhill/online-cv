@@ -51,8 +51,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BA(Hons) History
-        university: University of Huddersfield
+      - degree: Bachelor of Secondary Education
+        university: f.l. Vargas College inc.
         # time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -62,8 +62,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Software Engineering Immersive
-        university: General Assembly
+      - degree: Bachelor of Science in Information Technology
+        university: Cagayan State University
         # time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -76,18 +76,18 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Software Developer (Full Stack)
-        time: 2022 - Present
-        company: Givepanel Ltd
+      - role: Local Government Unit (Job Order)
+        time: July 2021 -  June 2022
+        company: Municipality of Rizal, Cagayan
         details: |
           Assisted the Customer Success team by quickly and efficiently responding and fixing any issues with the codebase.
           Worked with TypeScript, React, NextJs, MongoDB and Firebase daily.
           Collaborated with an international team seamlessly, delivering exceptional support to notable charities like St. Judes and MacMillan.
             - Developed features enabling charities to search for recurring donations, resulting in increased efficiency for users
             - Successful in reducing the backlog of known issues to zero
-      - role: Junior Software Engineer (Full Stack)
-        time: 2021 - 2022
-        company: Cloudshelf Ltd
+      - role: Credit and Collection Staff
+        time: 2017 - 2021
+        company: Wheels Inc.
         details: |
           Worked closely with 2 senior engineers to deliver features and fixes.
           We used React, NextJs, TypeScript with NestJs to connect to our Postgres and GraphQL database.
