@@ -90,11 +90,13 @@ experiences:
         time: 2017 - 2021
         company: Wheels Inc.
         details: |
-          Worked closely with 2 senior engineers to deliver features and fixes.
-          We used React, NextJs, TypeScript with NestJs to connect to our Postgres and GraphQL database.
-            - Utilise the Shopify GraphQL API to display relevant product information from retailers
-            - Delivered over 75 features and numerous fixes
-            - Researched and assisted with the application process successfully being accepted to the Shopify App ecosystem
+          #222 E Rodriguez Sr Ave, Damayang Lagi, Quezon City
+            - Inputting and Computing Financing Promos
+            - Inputting Data's on Credit Application System
+            - Processing Clients Application
+            - Prepare documents for releasing
+            - Prepare documents for LTO
+            - Prepare documents for segregation
       - role: Business Manager
         time: 2008 - 2021
         company: McDonalds Restaurants Ltd
