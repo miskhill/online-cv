@@ -117,23 +117,35 @@ projects:
     assignments:
       - title: Professional Teacher
         # link: "https://annualmedia.pages.dev/"
-        tagline: "Bachelor of Secondary Education (BSEd)"
+        tagline: "Bachelor of Secondary Education (BSEd) January 28, 2023"
 
-      - title: HospitalityHub
-        link: "https://github.com/miskhill/Project4#readme"
-        tagline: "An app to allow Businesses and Employees to register, login, post jobs, apply to jobs and rate each other. Built with Python, Django, React and Postgres"
+      - title: Certified TikTok Marketing Professional
+        # link: "https://github.com/miskhill/Project4#readme"
+        tagline: "March 22, 2023"
 
-      - title: LOLFire E-Sports
-        link: "https://vjbhtocsid.eu10.qoddiapp.com/"
-        tagline: "A League of Legends themed E-Sport app. React, MongoDB, Express, Mongoose. This app allows users to upload, rate and comment on the latest E-Sport videos"
+      - title: Philippine Professional Standard for Teachers Webinar
+        # link: "https://vjbhtocsid.eu10.qoddiapp.com/"
+        tagline: "May 27-29, 2022"
 
-      - title: Movie Generator
-        link: "https://movieproject2.netlify.app/"
-        tagline: "Randomly generate your film for the evening."
+      - title: Certificate of Appreciation
+        # link: "https://movieproject2.netlify.app/"
+        tagline: "Observers during the Final Demonstration of Practice Teachers - S.Y. 2021- 2022"
 
-      - title: Supa Smoothie
-        link: "https://supabase-and-react-production.up.railway.app/"
-        tagline: "I wanted to try out Supabase as a backend service. I used React and Supabase to create full stack CRUD app"
+      - title: Certificate of Participation
+        # link: "https://supabase-and-react-production.up.railway.app/"
+        tagline: "Orientation on the Site Selection Process for Evacuation Center Projects"
+
+      - title: Certificate of Completion
+        # link: "https://supabase-and-react-production.up.railway.app/"
+        tagline: "Learn How To Create Digital Course Collateral In Canva - November 2021"
+
+      - title: Certificate of Perfect Attendance
+        # link: "https://supabase-and-react-production.up.railway.app/"
+        tagline: "Most reliable of the Month - PPCInc. C.M Recto (February 2013)"
+
+      - title: Certificate of Participation
+        # link: "https://supabase-and-react-production.up.railway.app/"
+        tagline: "Guidance and Counselling Center - Cagayan State University"
 
 # oss:
 #     title: OSS Contributions
