@@ -175,21 +175,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: TypeScript and NextJs
+      - name: Leadership
         level: 98%
 
-      - name: Javascript
+      - name: Integrity and ethics
         level: 98%
 
-      - name: React
+      - name: Computer Skills - Word, Excel, PowerPoint
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: MongoDB and Postgres
-        level: 85%
+      - name: Time Management & Organization
+        level: 100%
 
-      - name: Git and Github
-        level: 85%
+      - name: Teamwork & People Management
+        level: 95%
 
