@@ -25,6 +25,8 @@ sidebar:
     languages:
       title: LICENSES & CERTIFICATIONS
       info:
+        - idiom: Professional Teacher
+          level: "Bachelor of Secondary Education (BSEd) January 28, 2023"
         - idiom: Certified TikTok Marketing Professional
           level: "March 22, 2023"
         - idiom: Philippine Professional Standard for Teachers Webinar
@@ -83,9 +85,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Professional Teacher
-        # link: "https://annualmedia.pages.dev/"
-        university: "Bachelor of Secondary Education (BSEd) January 28, 2023"
 
 experiences:
     title: Experience
