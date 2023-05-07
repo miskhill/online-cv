@@ -22,9 +22,13 @@ sidebar:
     # codewars: miskhill
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    LICENSES :
-      title: Licenses & Certifications
+    languages:
+      title: LICENSES & CERTIFICATIONS
       info:
+        - idiom: English
+          level: Proficient
+        - idiom: Tagalog
+          level: Native
         - idiom: Certified TikTok Marketing Professional
           level: "March 22, 2023"
         - idiom: Philippine Professional Standard for Teachers Webinar
